@@ -13,4 +13,7 @@ public class Hello {
 
     }
 
+    public static void epicMethod() {
+        System.out.println("What's 9 + 10?");
+    }
 }
