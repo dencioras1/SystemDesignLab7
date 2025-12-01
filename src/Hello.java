@@ -4,4 +4,7 @@ public class Hello {
         System.out.println("Hello, World!");
     }
 
+    public static void epicMethod() {
+        System.out.println("What's 9 + 10?");
+    }
 }
